@@ -18,6 +18,10 @@
 
           Response.Write("El elemento 5-3 es: ")
           Response.Write(arrColores(5-3) & "<p>")
+		  assasas
+		  asasas
+		  asasasasasas
+		  asasasasasas
        End sub      
     </script>
 
